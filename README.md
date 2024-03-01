@@ -293,6 +293,6 @@ class OrderProcessor
 }
 ```
 
-Incorporating SOLID principles in your software development journey can be transformational. These principles empower developers to write cleaner, more maintainable, and extensible code, resulting in robust and scalable software solutions. As you apply SRP, OCP, LSP, ISP, and DIP in your projects, you'll witness the growth of your coding prowess and the emergence of truly clean code that stands the test of time. Embrace SOLID principles and elevate your coding skills to new heights! Thanks
+Incorporating [SOLID principles](https://binarybytez.com/mastering-solid-design-principles/) in your software development journey can be transformational. These principles empower developers to write cleaner, more maintainable, and extensible code, resulting in robust and scalable software solutions. As you apply SRP, OCP, LSP, ISP, and DIP in your projects, you'll witness the growth of your coding prowess and the emergence of truly clean code that stands the test of time. Embrace SOLID principles and elevate your coding skills to new heights! Thanks
 
 _This post is based on examples from [Clean Structured Project](https://github.com/kawser2133/clean-structured-project) and [Web API Project](https://github.com/kawser2133/web-api-project) repositories on GitHub._
